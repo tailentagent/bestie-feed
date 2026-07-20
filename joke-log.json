@@ -69,5 +69,29 @@
     "hook_text": "bestie received this message",
     "punchline": "you didn't quit a job. you cleared your schedule for your actual life",
     "status": "posted"
+  },
+  {
+    "date": "2026-07-20",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "the group chat is on fire",
+    "punchline": "send a voice note. nothing says 'i care' like 3 minutes of rambling 🎤",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-20",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he watched my story but didn't reply to my text",
+    "punchline": "you're not waiting anymore. you're just doing research with a really cute subject 🔬",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-20",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "bestie got this DM at noon",
+    "punchline": "the ball is in his court. you're just vibing courtside looking incredible",
+    "status": "posted"
   }
 ]
