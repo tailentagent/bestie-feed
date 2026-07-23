@@ -141,5 +141,29 @@
     "hook_text": "bestie received a 1am message",
     "punchline": "you didn't book a flight. you booked a whole new version of yourself",
     "status": "posted"
+  },
+  {
+    "date": "2026-07-23",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he left her on read for 4 days",
+    "punchline": "archive the thread. let him miss you like a wifi password he forgot to save",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-23",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a $95 candle and i feel guilty",
+    "punchline": "you didn't buy a candle. you bought 60 hours of not needing therapy 🕯️",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-23",
+    "format": "mascot",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "one video. that's all it took",
+    "punchline": "you've got a youtube tutorial and standards. you're already ahead",
+    "status": "posted"
   }
 ]
