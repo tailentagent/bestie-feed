@@ -237,5 +237,29 @@
     "hook_text": "one linkedin article. she's ready",
     "punchline": "you're not starting a shop. you're appointing yourself CEO 📦",
     "status": "posted"
+  },
+  {
+    "date": "2026-07-27",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "it's 2am and she's redesigning her life",
+    "punchline": "go to sleep. you wake up as her tomorrow 🌙",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-27",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to cut a fringe but everyone says don't do it",
+    "punchline": "grow-out period is 6 weeks. living without curiosity is forever 💇‍♀️",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-27",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
