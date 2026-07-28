@@ -261,5 +261,29 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-07-28",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's starting a small business. today.",
+    "punchline": "you have taste and a saucepan. you're overqualified 🕯️",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-28",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i spent $280 on a coat but it was 40% off",
+    "punchline": "you didn't spend $280. the store paid you $187 to take the coat home 📈",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-28",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "the 2am DMs have arrived",
+    "punchline": "you're not sleep deprived. you're a interior director on a deadline",
+    "status": "posted"
   }
 ]
