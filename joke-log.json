@@ -285,5 +285,29 @@
     "hook_text": "the 2am DMs have arrived",
     "punchline": "you're not sleep deprived. you're a interior director on a deadline",
     "status": "posted"
+  },
+  {
+    "date": "2026-07-29",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he posted a sunset. no context.",
+    "punchline": "like it. once. then let the clouds do the rest",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-29",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a plant i have no room for",
+    "punchline": "this isn't impulse buying. this is interior design with a pulse 🌿",
+    "status": "posted"
+  },
+  {
+    "date": "2026-07-29",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
