@@ -477,5 +477,29 @@
     "hook_text": "bestie has read the evidence",
     "punchline": "you don't adjust your behaviour. you just note the pattern and raise your rate",
     "status": "posted"
+  },
+  {
+    "date": "2026-08-06",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "she's thinking about moving cities",
+    "punchline": "everyone you need there just hasn't met you yet",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-06",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my friend keeps asking for advice then doing the opposite",
+    "punchline": "stop solving. just say 'wow' and let her finish the experiment herself",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-06",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "2am and she's starting a vision board",
+    "punchline": "cut, paste, manifest. the universe doesn't check the time",
+    "status": "posted"
   }
 ]
