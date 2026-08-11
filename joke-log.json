@@ -597,5 +597,29 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-08-11",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he double-texted. now what",
+    "punchline": "your calm is more attractive than any text you could write right now",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-11",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "is $180 for a jacket too much when i'm broke",
+    "punchline": "the jacket is financially responsible. being cold is the luxury you can't afford",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-11",
+    "format": "mascot",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "two videos in. fully certified",
+    "punchline": "you're not a beginner. you're a baker in the proof stage",
+    "status": "posted"
   }
 ]
