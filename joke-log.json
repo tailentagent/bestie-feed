@@ -621,5 +621,29 @@
     "hook_text": "two videos in. fully certified",
     "punchline": "you're not a beginner. you're a baker in the proof stage",
     "status": "posted"
+  },
+  {
+    "date": "2026-08-12",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "she's been asked to give a speech",
+    "punchline": "the bar is 'didn't cry and held the mic right.' you're already winning",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-12",
+    "format": "preview",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
+  },
+  {
+    "date": "2026-08-12",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "bestie runs the numbers live",
+    "punchline": "the chaos is free. the planner pays for itself",
+    "status": "posted"
   }
 ]
