@@ -693,5 +693,29 @@
     "hook_text": "he texted 'hey' after 3 weeks",
     "punchline": "that's not a text. that's a trial balloon. leave it up there",
     "status": "posted"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's decided to grow her own herbs",
+    "punchline": "best case you're seasoning pasta with things you grew. that's a lifestyle",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i paid for express shipping and now i feel bad",
+    "punchline": "honestly the standard option would've cost more in anxiety. you saved money 💅",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-16",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "she's meal prepping at midnight",
+    "punchline": "this isn't a late night. this is a care package to yourself 🍱",
+    "status": "posted"
   }
 ]
