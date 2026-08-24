@@ -885,5 +885,29 @@
     "hook_text": "the sale made her money actually",
     "punchline": "if you'd bought two you'd basically be turning a profit",
     "status": "posted"
+  },
+  {
+    "date": "2026-08-24",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's decided to make her own candles",
+    "punchline": "you've already done the hardest part. you thought of it",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-24",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to dye my hair a completely different color tomorrow",
+    "punchline": "do it. you're not changing your hair. you're updating your main character 🎨",
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-24",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "bestie reads the situation",
+    "punchline": "you didn't get ghosted. you got left on a cliffhanger. different genre",
+    "status": "posted"
   }
 ]
