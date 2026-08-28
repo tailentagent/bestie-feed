@@ -981,5 +981,41 @@
     "hook_text": "he said 'we should hang out soon'",
     "punchline": "you're not chasing. you're closing the deal. very professional of you",
     "status": "posted"
+  },
+  {
+    "date": "2026-08-28",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "watched two videos. basically a florist now",
+    "punchline": "you're not a hobbyist. you're a botanist with a pricing strategy",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-28",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "do i text him first or wait. it's been 4 days",
+    "punchline": "the answer you need is already in how much you've thought about this",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-28",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "mum's disappointment fades. regret is forever",
+    "punchline": "back yourself. the couch is staying",
+    "variant": "fast-a-loop",
+    "background": "mascot-loop",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
