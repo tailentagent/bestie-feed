@@ -1017,5 +1017,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-08-29",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's basically a sourdough bakery now",
+    "punchline": "you have a starter, a vision, and more evidence than most investors get 🍞",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-29",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he watched my story but hasn't texted back yet",
+    "punchline": "let him load. you posted, you moved on, you're already in the next scene 🎬",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.83,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-29",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "love her. not her opinion on your life",
+    "punchline": "she has opinions. you have a life. these are two separate projects",
+    "variant": "fast-a-loop",
+    "background": "mascot-loop",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
