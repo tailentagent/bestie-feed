@@ -1053,5 +1053,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-08-30",
+    "format": "chat",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "two videos in. she's a landscape architect",
+    "punchline": "you have a vision board and a tape measure. you're overqualified",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-30",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he's been posting but not replying to me. explain",
+    "punchline": "post something stunning and let the algorithm do your talking 📲",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-30",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "cash doesn't count. it's basically free",
+    "punchline": "if there's no transaction notification, the bank doesn't even know. it's free",
+    "variant": "fast-a-loop",
+    "background": "mascot-loop",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
