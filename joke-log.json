@@ -1089,5 +1089,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-08-31",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "insomnia is just unsupervised planning time",
+    "punchline": "insomnia is just unsupervised planning time and you're using it well 📋",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-31",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought two of the same top in different colors help",
+    "punchline": "you didn't shop twice. you planned ahead. that's just efficiency 📊",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-08-31",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "a group chat is not a court of law",
+    "punchline": "mute the chat. you're the topic, not the defendant.",
+    "variant": "fast-a-loop",
+    "background": "mascot-loop",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
