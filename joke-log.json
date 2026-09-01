@@ -1125,5 +1125,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-01",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "starting a garden at midnight is self-care",
+    "punchline": "the seeds don't know it's midnight. they're just excited to meet you 🌱",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-01",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my sister keeps giving unsolicited advice about my flat",
+    "punchline": "nod, agree, rearrange nothing. you live here. she doesn't 🏠",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-01",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "leaving him on read is a personality",
+    "punchline": "leave it. let him wonder what you're so busy doing. the answer is this",
+    "variant": "fast-a-loop",
+    "background": "mascot-loop",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
