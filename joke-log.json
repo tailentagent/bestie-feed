@@ -1161,5 +1161,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-02",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "watched one video. basically a bookkeeper now",
+    "punchline": "you're not unqualified. you're just undefeated so far 🧾",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-02",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to cut a fringe tonight. it's 11pm",
+    "punchline": "cut it. regret is a lie your future self made up to seem relatable 💇‍♀️",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-02",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "being the fun one has a price. worth it",
+    "punchline": "send the itinerary. invoice to follow",
+    "variant": "fast-a-loop",
+    "background": "mascot-loop",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
