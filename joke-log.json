@@ -1233,5 +1233,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-04",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "she's rebranding. linkedin is last to know",
+    "punchline": "the clay was always calling. you just had meetings",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-04",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my friend keeps cancelling last minute. do i say something",
+    "punchline": "'i need more notice' is a complete sentence and it's not even that scary to send",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-04",
+    "format": "mascot",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "three videos in. she's a podcast host",
+    "punchline": "mediocre men launch podcasts daily with less. you're basically overdue",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
