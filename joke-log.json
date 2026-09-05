@@ -1269,5 +1269,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-05",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "replying fast doesn't mean you're desperate",
+    "punchline": "text back. unbothered people don't second-guess. they just send",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-05",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to quit my job and become a ceramicist",
+    "punchline": "the resignation letter and the kiln can both be started tonight 🏺",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-05",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
