@@ -1301,5 +1301,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "chat",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "returning it made you $90. you're up",
+    "punchline": "this is what responsible money management looks like",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "preview",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "it's 1am and i just rearranged my entire bedroom",
+    "punchline": "the room hits different now and you did that. go to sleep a new person 🛏️",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-06",
+    "format": "mascot",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "bleach it. roots are temporary",
+    "punchline": "roots grow back. the version of you who played it safe? she's gone forever",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
