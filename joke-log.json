@@ -1337,5 +1337,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-07",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "3am is just extra productivity hours",
+    "punchline": "unsubscribe from everything. start fresh. you're basically a new person 📥",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-07",
+    "format": "preview",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
+  },
+  {
+    "date": "2026-09-07",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "cost per wear says it's basically free",
+    "punchline": "at this price point the jacket is essentially paying you to look like that",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
