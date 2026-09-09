@@ -1405,5 +1405,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-09",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "sourdough at midnight is a personality",
+    "punchline": "this is the most committed you've been all year and she's flour and water",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-09",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he watched my story 4 seconds in. what does that mean",
+    "punchline": "post the next one even better. let him write his own conclusions 📊",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-09",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
