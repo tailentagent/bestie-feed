@@ -1437,5 +1437,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-09-12",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "not texting first is cardio",
+    "punchline": "let him do the one thing you've asked him to do",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-12",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i spent $200 on a cookbook i'll probably use twice",
+    "punchline": "you didn't buy a cookbook. you invested in a $200 personality 📚",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-12",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "online checkout at 2am is just manifestation",
+    "punchline": "you're not impulsive. you're just doing your research in the dark",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
