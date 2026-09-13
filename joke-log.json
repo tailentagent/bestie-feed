@@ -1473,5 +1473,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "wedding bridesmaid math hits different",
+    "punchline": "you're not buying a dress. you're renewing the contract 💍",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "preview",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "should i reorganise my entire wardrobe at midnight",
+    "punchline": "if you find something you forgot you owned, that's basically shopping for free 🧥",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-13",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
