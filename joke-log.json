@@ -1505,5 +1505,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-09-14",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "leaving it on read is a personality trait",
+    "punchline": "unread is a boundary. you're just protecting your bandwidth",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-14",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "can i just teach myself to make candles and sell them",
+    "punchline": "you're not starting a hobby. you're entering the market 🕯️",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-14",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "group chats are unpaid project management",
+    "punchline": "next trip: you plan it, they fund it. that's the new deal",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
