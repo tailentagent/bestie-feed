@@ -1541,5 +1541,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-15",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's never gardened. she's starting a farm",
+    "punchline": "you have 12 plants and something to prove. that's basically a farm",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-15",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my mum keeps sending me job listings. how do i make it stop",
+    "punchline": "the less detail you give, the less there is to worry about. mystery is a boundary 🤐",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-15",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "double texting is just good follow-up",
+    "punchline": "cc: yourself on this one. you deserve the response",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
