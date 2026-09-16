@@ -1577,5 +1577,42 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-16",
+    "format": "chat",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "the candle makes the rent worth it",
+    "punchline": "you didn't buy a candle. you protected your mental health infrastructure 🕯️",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-16",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i'm thinking about moving to a new city where i know nobody",
+    "punchline": "every person who reinvented themselves did it somewhere no one had their number 📦",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-16",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "group chat coordinator is an unpaid ceo",
+    "punchline": "send the next itinerary with your consulting rate attached 📎",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted",
+    "instagram": "skipped_instagram"
   }
 ]
