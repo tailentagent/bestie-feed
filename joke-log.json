@@ -1614,5 +1614,41 @@
     "duration_s": 5.6,
     "status": "posted",
     "instagram": "skipped_instagram"
+  },
+  {
+    "date": "2026-09-17",
+    "format": "chat",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "two videos in. basically a podcast host",
+    "punchline": "you've been workshopping your takes for years. you're basically overdue 🎙️",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-17",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my friend keeps asking for advice then ignoring it",
+    "punchline": "next time: validate first, opinion never. let her talk herself into it 👂",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-17",
+    "format": "mascot",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "a bang trim is a full rebrand",
+    "punchline": "new bangs, new references, new era. the old you didn't even like her fringe",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
