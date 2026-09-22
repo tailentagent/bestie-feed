@@ -1790,5 +1790,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-22",
+    "format": "chat",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "the plants pay rent now",
+    "punchline": "they're not decorations. they're contributing members of the household",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-22",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he watched my story but didn't text. do i say something",
+    "punchline": "leave it. he knows where you are. let him buy a ticket 🎟️",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-22",
+    "format": "mascot",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "two videos in. basically an interior designer",
+    "punchline": "you have opinions for free. you're overqualified",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
