@@ -1826,5 +1826,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-23",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "2am sourdough starter is self-care",
+    "punchline": "worst case you have crackers. best case you're a baker",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-23",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought the expensive coffee maker and now i feel guilty",
+    "punchline": "you didn't buy an appliance. you opened a cafe that only serves you ☕",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-23",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "three days of silence is a soft launch",
+    "punchline": "text him. one line. no context. let him do the maths",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
