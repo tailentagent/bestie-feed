@@ -1862,5 +1862,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-24",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "reorganising your notes app IS a plan",
+    "punchline": "consultants charge $200 an hour for this. you're doing it for free at 1am",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-24",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a coat in august. is that insane",
+    "punchline": "you didn't buy a coat. you locked in a fixed rate on warmth 🧥",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-24",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "leaving it on read is a power move now",
+    "punchline": "reply now. casually. like you just remembered you're also busy 📱",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
