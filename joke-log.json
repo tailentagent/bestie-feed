@@ -1898,5 +1898,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-25",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "buying plants at midnight is gardening",
+    "punchline": "tuesday is basically a plant delivery event. clear your schedule 🌿",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-25",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i spent $180 on a journal but it's leather so",
+    "punchline": "you didn't buy a journal. you bought a 10-year therapy plan with better aesthetics 📓",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.83,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-25",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "being the reliable one is a full-time job",
+    "punchline": "start forwarding the calls. competence is a privilege, not a right",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
