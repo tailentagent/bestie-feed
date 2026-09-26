@@ -1934,5 +1934,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-26",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "midnight online course is a career pivot",
+    "punchline": "you don't have a hobby now. you have a second identity 🏺",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-26",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he texted 'hey' after two weeks. do i reply?",
+    "punchline": "punctuation is the whole message. he'll be thinking about that dot for days",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "failed_publish"
+  },
+  {
+    "date": "2026-09-26",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "cost per wear makes it basically free",
+    "punchline": "you didn't buy boots. you bought a 3-year commute plan",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "failed_publish"
   }
 ]
