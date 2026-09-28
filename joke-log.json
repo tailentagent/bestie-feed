@@ -2006,5 +2006,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-09-28",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "group chat silence is a red flag",
+    "punchline": "forward it to yourself. laugh at your own joke. be the audience you deserve",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-28",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "is it stupid to just teach myself pottery this week",
+    "punchline": "buy the clay. worst case you have lumpy bowls. best case you have a brand 🏺",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-28",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
