@@ -2038,5 +2038,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-09-29",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "the cart knew before she did",
+    "punchline": "the universe left his profile up for a reason. that's a sign",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-29",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my friend keeps asking for advice then ignoring it",
+    "punchline": "stop solving. start narrating. 'and then what happened' is a full support system",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-09-29",
+    "format": "mascot",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "quitting to freelance is just a promotion",
+    "punchline": "your current boss didn't even ask if you wanted the job. you're fixing that",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
