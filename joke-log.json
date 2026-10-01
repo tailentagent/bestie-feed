@@ -2110,5 +2110,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-01",
+    "format": "chat",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "she watched one video. she's a florist now",
+    "punchline": "worst case you have a very pretty table. best case you have a waiting list",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-01",
+    "format": "preview",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
+  },
+  {
+    "date": "2026-10-01",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "being busy is a full sentence",
+    "punchline": "being busy is a full sentence. she has the punctuation she needs",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
