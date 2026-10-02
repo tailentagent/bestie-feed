@@ -2142,5 +2142,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-02",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "moving cities is cheaper than therapy",
+    "punchline": "this isn't impulsive. it's a rebrand with a change of address",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-02",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "is it unrealistic to just teach myself bookkeeping",
+    "punchline": "watch two videos. you're basically a CFO by sunday 📊",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-02",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "returning it made her $60. she's up.",
+    "punchline": "you're not spending money. you're rebalancing your portfolio",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
