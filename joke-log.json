@@ -2250,5 +2250,38 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-06",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "leaving him on read is a personality trait",
+    "punchline": "reply when you feel like it. mystery isn't a game, it's a lifestyle",
+    "status": "skipped_render"
+  },
+  {
+    "date": "2026-10-06",
+    "format": "preview",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "it's 1am and i'm researching how to grow herbs indoors",
+    "punchline": "order the seeds. your future self has a windowsill and her life together 🌿",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted",
+    "render_fallback": "chat"
+  },
+  {
+    "date": "2026-10-06",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "the sale made her $43. she's profitable.",
+    "punchline": "you didn't spend $180. you made $120 and the bag was free 💼",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
