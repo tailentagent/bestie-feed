@@ -2283,5 +2283,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-08",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "she replied 'haha' to end it. iconic",
+    "punchline": "this is diplomacy, actually",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-08",
+    "format": "preview",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "it's 11pm and i want to completely reorganise my wardrobe",
+    "punchline": "you're not avoiding sleep. you're finally meeting your actual style 🖤",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-08",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "being left on read was market research",
+    "punchline": "either way you're walking away informed. this is research now",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
