@@ -2319,5 +2319,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-09",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "starting a journal at midnight is healing",
+    "punchline": "write one sentence then go to sleep. you've done the work 🖤",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-09",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a fancy planner but i haven't opened it yet",
+    "punchline": "the planner wasn't an impulse buy. it was a deposit on your future 📋",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-09",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "not texting first is a long game strategy",
+    "punchline": "either way you're not sitting around. you're running a study",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
