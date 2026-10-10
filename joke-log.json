@@ -2355,5 +2355,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-10",
+    "format": "chat",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "the jacket paid for itself, actually",
+    "punchline": "at this rate the jacket is going to start paying YOU",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-10",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "he watched my story but didn't text. what does it mean",
+    "punchline": "do nothing. let him marinate. silence is a power move you didn't even have to plan 👀",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-10",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
