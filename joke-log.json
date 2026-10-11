@@ -2387,5 +2387,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "two videos in. she's basically a ceramicist",
+    "punchline": "yours will be wonky AND free. that's called an advantage",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a second tote bag but i already have one",
+    "punchline": "you didn't buy two bags. you bought a system 🧮",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-11",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "posting tonight is not petty. it's pr.",
+    "punchline": "and if he sees it and texts? that's just excellent pr",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
