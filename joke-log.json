@@ -2423,5 +2423,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-12",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "a soft launch exit is still an exit",
+    "punchline": "you showed up emotionally. that counts more than boxes",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-12",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought the expensive face cream and i feel guilty",
+    "punchline": "this isn't skincare. it's a long-term infrastructure investment 🧴",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-12",
+    "format": "mascot",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "watched three videos. she tiles now.",
+    "punchline": "mediocre men have been doing this since forever. you're genuinely overqualified",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
