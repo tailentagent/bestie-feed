@@ -2459,5 +2459,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-16",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "RSVP-ing maybe is a boundary, actually",
+    "punchline": "if she wanted a yes she should have picked a venue with parking",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-16",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "is it crazy to just start growing my own vegetables",
+    "punchline": "you're not starting a garden. you're becoming someone who has one 🌱",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-16",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "2am vision board is a business plan",
+    "punchline": "that's not a vision board. that's a business plan with good aesthetics",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
