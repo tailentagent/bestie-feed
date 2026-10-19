@@ -2531,5 +2531,65 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-18",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "cancelling plans is a form of self-knowledge",
+    "punchline": "you're not flaky. you're in a late stage of self-awareness 🌙",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-18",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "is it stupid to quit my job without another one lined up",
+    "punchline": "worst case? a gap year with a plot twist. best case? the whole story changes 🌙",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-19",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's basically a sourdough CEO now",
+    "punchline": "worst case you have a pet. best case you own the breakfast market",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-19",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to move to a new city and i haven't told anyone yet",
+    "punchline": "some chapters don't end, they just change cities 🌆",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-19",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "double texting is a power move now",
+    "punchline": "three texts is a trilogy and you're the main character. send it.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
