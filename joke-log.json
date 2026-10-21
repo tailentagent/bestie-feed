@@ -2627,5 +2627,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-21",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "dyeing it dark is a rebrand, not a risk",
+    "punchline": "mum's surprise is temporary. living as the wrong main character is forever",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-21",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a candle for $60 and i feel sick",
+    "punchline": "this isn't a candle. it's your most affordable wellness era 🕯️",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-21",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "mum's read receipt is a personality trait",
+    "punchline": "this is her negotiating tactic and it's working. she invented the slow reply.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
