@@ -2699,5 +2699,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-23",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "online checkout at 1:47am is research",
+    "punchline": "that's not a breakdown. that's a strategy session with no interruptions 📊",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-23",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a second plant when i've already killed three",
+    "punchline": "also you spent money on those pots so you basically have to succeed now. sunk cost.",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.83,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-23",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "leaving him on read is a full strategy",
+    "punchline": "you're not ignoring him. you're occupying real estate in his brain. rent-free.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
