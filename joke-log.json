@@ -2767,5 +2767,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-10-25",
+    "format": "chat",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "the jacket paid for itself, actually",
+    "punchline": "you didn't buy a jacket. you cancelled 80 bad outfit days 🧥",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.8,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-25",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "should i text him first or is that too keen",
+    "punchline": "text him. worst case you get data. best case you get dinner 📲",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-25",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "3am is peak decision-making hours",
+    "punchline": "she didn't spiral. she enrolled. that's growth with a glaze finish.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
