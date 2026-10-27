@@ -2839,5 +2839,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-27",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "two videos in. she's a ceramicist.",
+    "punchline": "worst case you have a lumpy vase. that's texture. that's intentional.",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-27",
+    "format": "preview",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
+  },
+  {
+    "date": "2026-10-27",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "the cart doesn't empty itself at midnight",
+    "punchline": "your rested self would've second-guessed everything. you protected the vision",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
