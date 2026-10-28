@@ -2871,5 +2871,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-28",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "group chat admin is an unpaid executive role",
+    "punchline": "send them a mood board and an invoice. let them self-govern once",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-28",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i spent $90 on a fancy notebook and used 2 pages",
+    "punchline": "and the other 198 pages are basically a free gift at this point 📓",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-28",
+    "format": "mascot",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "watched four videos. she tiles now.",
+    "punchline": "you're basically a contractor at this point. get the grout.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
