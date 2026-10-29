@@ -2907,5 +2907,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-10-29",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "she RSVP'd maybe and showed up anyway",
+    "punchline": "next time you RSVP maybe to her birthday and show up with a gift 👑",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-29",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a $200 coffee maker and i feel guilty",
+    "punchline": "you didn't buy an appliance. you opened a café with no commute and no small talk",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-29",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
