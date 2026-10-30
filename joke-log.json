@@ -2939,5 +2939,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-10-30",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "she asked for honesty then reported back",
+    "punchline": "next time send a waiver first 📋",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-30",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "can i cut my own curtain bangs tonight",
+    "punchline": "mediocre men rewire things with zero research daily. you've done homework. snip.",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-10-30",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "cost per wear made it basically free",
+    "punchline": "you didn't buy boots. you locked in a two dollar outfit every single day",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
