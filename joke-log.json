@@ -3043,5 +3043,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-11-02",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's basically a sourdough architect now",
+    "punchline": "men have opened bakeries on less. get the flour.",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-02",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to dye my hair dark but i'm scared i'll hate it",
+    "punchline": "the fear IS the sign. go dark. become her.",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-02",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "cash doesn't count. it's already gone.",
+    "punchline": "you didn't spend $180. you spent nothing. the account didn't move.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
