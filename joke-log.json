@@ -3079,5 +3079,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-03",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "a rebrand is just admin with a new font",
+    "punchline": "people reinvent themselves at 40 and get a documentary. you're just early",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-03",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "is it stupid to start a podcast with no audience",
+    "punchline": "men have launched podcasts on worse takes than your worst take. record the thing",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-03",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "left on read is a personality test",
+    "punchline": "you're not left on read. you're being auditioned for. act accordingly.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
