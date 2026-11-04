@@ -3115,5 +3115,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-04",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "packing boxes is just editing your life",
+    "punchline": "packing boxes is just editing your life. cut the slow parts 📦",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-04",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a plant i don't know how to keep alive",
+    "punchline": "and if it lives? you're basically a person who has their life together now 🌿",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-04",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "read receipts on is a power move",
+    "punchline": "read receipts on is not unhinged. it's infrastructure.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
