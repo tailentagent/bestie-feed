@@ -3219,5 +3219,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-07",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "online shopping at midnight is research",
+    "punchline": "sleep on it means add to cart and check in the morning 🛒",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-07",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a $400 coat and now i feel sick about it",
+    "punchline": "you didn't buy a coat. you locked in winter for a dollar a week 🧥",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-07",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "she cancelled last minute. twice. in a row.",
+    "punchline": "you're not being petty. you're teaching calendar literacy",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
