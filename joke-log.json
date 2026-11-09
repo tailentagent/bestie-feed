@@ -3291,5 +3291,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-09",
+    "format": "chat",
+    "category": "girl logic",
+    "hook_text": "it was still in her cart. that's a sign.",
+    "punchline": "the cart knew before you did 🛒",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "failed_publish"
+  },
+  {
+    "date": "2026-11-09",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my friend keeps giving me unsolicited advice. help",
+    "punchline": "it's not manipulation. it's a friendship terms update 📋",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "failed_publish"
+  },
+  {
+    "date": "2026-11-09",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
