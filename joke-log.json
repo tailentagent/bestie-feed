@@ -3323,5 +3323,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-11-10",
+    "format": "chat",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "the candle is basically free, actually",
+    "punchline": "you didn't buy a candle. you bought 60 hours of being a person who has their life together",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.8,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-10",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my sister just texted asking to 'borrow' my jacket again",
+    "punchline": "the jacket has a waitlist now. she can apply like everyone else 📋",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-10",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "crying and journaling is a board meeting",
+    "punchline": "you're not falling apart. you're doing a quarterly review 📋",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
