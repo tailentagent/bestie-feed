@@ -3359,5 +3359,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-11",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "two videos in. she's basically an accountant",
+    "punchline": "worst case you learn something. best case you're basically a CPA now",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-11",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "is it bad that i bought two of the same dress",
+    "punchline": "you didn't buy two dresses. you hedged your wardrobe 📈",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-11",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "mum's group chat is a full-time job",
+    "punchline": "this is your inheritance. the notifications are the legacy.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
