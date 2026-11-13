@@ -3395,5 +3395,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-13",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "double texting is called following up",
+    "punchline": "double texting is called having a point and making it twice",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-13",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "is it unrealistic to teach myself to make sourdough",
+    "punchline": "one week in you'll be gifting loaves. that's a personality now 🍞",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-13",
+    "format": "mascot",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "bangs are a free personality reset",
+    "punchline": "hair grows back. not knowing what you could've been haunts you forever",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
