@@ -3503,5 +3503,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-16",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "the rebrand starts with the colour palette",
+    "punchline": "you're not redecorating. you're commissioning yourself a whole new era",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-16",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i spent $90 on a planner and haven't opened it yet",
+    "punchline": "the planner isn't late. it's an investment waiting to mature 📈",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-16",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "left on read is market research",
+    "punchline": "that's data. now you know exactly how to price your attention.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
