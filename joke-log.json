@@ -3539,5 +3539,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-17",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "his 'hey' at 11pm is a job application",
+    "punchline": "the position has updated requirements now. send him the new job description",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-17",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to cut my own layers at midnight is that bad",
+    "punchline": "scissors out. main character does not wait until morning",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-17",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "3am furniture rearrange is interior design",
+    "punchline": "interior designers charge $200 an hour. you just did it for free in the dark",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
