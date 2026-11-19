@@ -3611,5 +3611,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-19",
+    "format": "chat",
+    "category": "family & friendship chaos",
+    "hook_text": "the birthday rsvp is a personality test",
+    "punchline": "the dessert upgrade paid for itself and you learned something",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-19",
+    "format": "preview",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "should i text him first or is that too eager",
+    "punchline": "send it. the worst case is data. the best case is tonight gets interesting 👀",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-19",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "starting a new series at midnight is research",
+    "punchline": "sleep is for people with nothing good queued up",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
