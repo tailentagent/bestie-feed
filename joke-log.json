@@ -3647,5 +3647,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-20",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "she's basically a florist now",
+    "punchline": "you're not starting a hobby. you're pre-launching a brand 🌸",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-20",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "is $180 for a good pillow too much to spend",
+    "punchline": "$180 divided by 365 nights is 49 cents. you're basically being paid to sleep well 📈",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.83,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-20",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "the vision board at 2am is a strategic plan",
+    "punchline": "this isn't procrastination. this is your Q1 roadmap and it has glitter on it",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
