@@ -3683,5 +3683,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-21",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "overqualified, actually",
+    "punchline": "you're not starting a hobby. you're in pre-revenue 🕯️",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-21",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a coffee machine to save money but it was $400",
+    "punchline": "this machine paid for itself in 57 days. you're basically in profit now.",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-21",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "showing up early is a threat",
+    "punchline": "you don't match her energy. you match her arrival time. see how she likes it.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
