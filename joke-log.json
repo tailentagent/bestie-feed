@@ -3719,5 +3719,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-22",
+    "format": "chat",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "online checkout at 1am is fate",
+    "punchline": "the universe doesn't do overnight shipping for just anyone",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-22",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my friend keeps giving unsolicited advice, what do i do",
+    "punchline": "she gets an audience. you get a decision. everyone leaves satisfied 🎭",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-22",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "returns are income. this is accounting.",
+    "punchline": "and the return? that's $89 back in your account. you literally made money today",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
