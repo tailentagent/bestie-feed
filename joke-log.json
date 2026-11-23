@@ -3755,5 +3755,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-23",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "being unavailable is a schedule, not a game",
+    "punchline": "you don't owe him a calendar invite to your attention 📅",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-23",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my mum keeps asking why i'm not 'further along' in life",
+    "punchline": "babe you're not late. you're on a route she doesn't have the range to understand 🗺️",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-23",
+    "format": "mascot",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
   }
 ]
