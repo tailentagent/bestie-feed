@@ -3787,5 +3787,41 @@
     "hook_text": null,
     "punchline": null,
     "status": "skipped_generation"
+  },
+  {
+    "date": "2026-11-24",
+    "format": "chat",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "the double text is a power move, actually",
+    "punchline": "you didn't chase. you completed a narrative arc",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-24",
+    "format": "preview",
+    "category": "family & friendship chaos",
+    "hook_text": "my coworker takes credit for my ideas in meetings",
+    "punchline": "you're not being petty. you're filing intellectual property correctly 📎",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-24",
+    "format": "mascot",
+    "category": "2am decisions and self-sabotage-as-self-care",
+    "hook_text": "4am is peak clarity, actually",
+    "punchline": "this isn't insomnia. it's a strategy session with yourself",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
