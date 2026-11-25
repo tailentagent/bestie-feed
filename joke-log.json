@@ -3823,5 +3823,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-25",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "two videos in. she's a sourdough baker.",
+    "punchline": "then you learned fermentation. that's a whole second career path",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-25",
+    "format": "preview",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "i bought a gym membership and only went twice this month",
+    "punchline": "two legendary sessions is not a failure. it's a high-intensity quarterly strategy",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-25",
+    "format": "mascot",
+    "category": "family & friendship chaos",
+    "hook_text": "uninvited feedback is a gift she can return",
+    "punchline": "unsolicited changes go both directions, babe 🔄",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
