@@ -3859,5 +3859,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-26",
+    "format": "chat",
+    "category": "how hard can it be",
+    "hook_text": "watched one video. launching the podcast.",
+    "punchline": "you have opinions AND a decent headset. you're embarrassingly overqualified",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-26",
+    "format": "preview",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "i want to move to a new city where i know nobody",
+    "punchline": "that's a soft launch of a better you and honestly the timing is perfect",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-26",
+    "format": "mascot",
+    "category": "girl math — a purchase being justified",
+    "hook_text": "cash doesn't count. it's already gone.",
+    "punchline": "economists call this circulation. you're basically doing community service",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
