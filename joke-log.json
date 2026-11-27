@@ -3895,5 +3895,37 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 5.6,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-27",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "quitting your job is a rebrand, not a crisis",
+    "punchline": "this isn't a resignation letter. it's a brand repositioning 📄",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-27",
+    "format": "preview",
+    "category": null,
+    "hook_text": null,
+    "punchline": null,
+    "status": "skipped_generation"
+  },
+  {
+    "date": "2026-11-27",
+    "format": "mascot",
+    "category": "how hard can it be",
+    "hook_text": "watched three videos. she's tiling.",
+    "punchline": "mediocre guys do this with zero videos. you're basically a contractor.",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 4.9,
+    "status": "posted"
   }
 ]
