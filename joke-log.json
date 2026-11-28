@@ -3927,5 +3927,41 @@
     "music": "clip-01-cozy.mp3",
     "duration_s": 4.9,
     "status": "posted"
+  },
+  {
+    "date": "2026-11-28",
+    "format": "chat",
+    "category": "impulsive life changes (hair, moving cities, quitting, rebrands)",
+    "hook_text": "bangs are a character arc, not a haircut",
+    "punchline": "worst case they grow out. best case you become a whole different person by tuesday",
+    "variant": "fast-a",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.17,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-28",
+    "format": "preview",
+    "category": "how hard can it be — a skill, job, or project she's deciding she can obviously do",
+    "hook_text": "is it weird to teach myself bookkeeping this weekend",
+    "punchline": "you're not learning bookkeeping. you're acquiring a second income stream before monday 📊",
+    "variant": "fast-a",
+    "background": "app-ui",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 6.57,
+    "status": "posted"
+  },
+  {
+    "date": "2026-11-28",
+    "format": "mascot",
+    "category": "situationship / texting-him-back logic",
+    "hook_text": "left on read is a plot twist, not an ending",
+    "punchline": "the like is a confession. rest your case 🔍",
+    "variant": "fast-a-rig",
+    "background": "brand-motion",
+    "music": "clip-01-cozy.mp3",
+    "duration_s": 5.6,
+    "status": "posted"
   }
 ]
